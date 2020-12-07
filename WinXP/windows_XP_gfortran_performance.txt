@@ -1,0 +1,19 @@
+HKUST-1
+real  2m39.203s
+user 0m0.015s
+sys  0m0.015s
+
+IRMOF-1
+real 1m43.406s
+user 0m0.015s
+sys 0m0.031s
+
+MIL47V
+real 5m20.484s
+user 0m0.015s
+sys 0m0.015s
+
+MOF180
+real 76m53.328s
+user 0m0.015s
+sys  0n.0.031s
